@@ -1,0 +1,36 @@
+{
+  "name": "ur20-swarm-control",
+  "version": "3.0.0",
+  "description": "Production-Ready AI-Powered Robotics Control Interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'Single file deployment - no build required'",
+    "test": "echo 'Testing suite coming soon'",
+    "lint": "echo 'Linting setup coming soon'"
+  },
+  "keywords": [
+    "robotics",
+    "ur20",
+    "swarm-control",
+    "ai-vision",
+    "dashboard",
+    "ui-ux",
+    "enterprise",
+    "apple-design"
+  ],
+  "author": "Your Team",
+  "license": "Enterprise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ur20-swarm-control.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ur20-swarm-control/issues"
+  },
+  "homepage": "https://github.com/yourusername/ur20-swarm-control#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
